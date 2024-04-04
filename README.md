@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **CI/CD tools**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/saimanasak)
+- 👨‍💻 All of my projects are available at [https://github.com/saimanasak](https://github.com/saimanasak)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@saimanasak)
+- 📝 I regularly write articles on [https://medium.com/@saimanasak](https://medium.com/@saimanasak)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
