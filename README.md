@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Sai Manasa</h1>
-<h3 align="center">DevOps Engineer</h3>
+<h3 align="right">DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saimanasak&label=Profile%20views&color=0e75b6&style=flat" alt="saimanasak" /> </p>
 
@@ -43,13 +43,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Angular & Dotnet with Docker](https://github.com/saimanasak/docker-with-dotnet)
 
-- 🌱 I’m currently learning **Docker in Docker**
+- 🌱 I’m currently learning **To launch an AWS EC2 Instance using various pipelines**
 
 - 👨‍💻 All of my projects are available at [saimanasak](https://github.com/saimanasak)
 
-- 💬 Ask me about **Kubernetes, Docker, and Cloud**
+- 💻 All my blogs: [Manasa](https://medium.com/@saimanasak) 
 
-- 📫 How to reach me **linkedIn**
+- 📫 How to reach me [Sai Manasa](https://www.linkedin.com/in/saimanasak/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanasak&show_icons=true&locale=en&layout=compact" alt="saimanasak" /></p>
