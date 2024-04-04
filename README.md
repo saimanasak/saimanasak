@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **Kubernetes, Docker, and Cloud**
 
-- 📫 How to reach me **muppedaanvesh@gmail.com**
+- 📫 How to reach me **linkedIn**
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saimanasak&show_icons=true&locale=en&layout=compact" alt="saimanasak" /></p>
