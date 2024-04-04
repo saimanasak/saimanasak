@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [⎈Unlocking Kubernetes Ingress⎈](https://saimanasak.medium.com/unlocking-kubernetes-ingress-6ceac4d41e07?source=rss-58cca66b39b6------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
