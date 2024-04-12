@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Efficiency: AWS EC2 Deployment with Azure DevOps](https://saimanasak.medium.com/unlocking-efficiency-aws-ec2-deployment-with-azure-devops-aca96a6ca717?source=rss-58cca66b39b6------2)
 - [⎈Unlocking Kubernetes Ingress⎈](https://saimanasak.medium.com/unlocking-kubernetes-ingress-6ceac4d41e07?source=rss-58cca66b39b6------2)
 <!-- BLOG-POST-LIST:END -->
 
