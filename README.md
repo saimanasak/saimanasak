@@ -8,12 +8,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--- - 🔭 I’m currently working on **** --->
+- 🌱 I’m currently learning [**Terraform**](https://github.com/saimanasak/terraform/tree/main)
 
-- 🌱 I’m currently learning **Terraform**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/saimanasak)
 
-- 👨‍💻 All of my projects are available at [https://github.com/saimanasak](https://github.com/saimanasak)
-
-- 📝 I regularly write articles on [https://medium.com/@saimanasak](https://medium.com/@saimanasak)
+- 📝 I regularly write articles on [My Medium](https://medium.com/@saimanasak)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
